@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appBanco", "appBanco\appBanco.csproj", "{6F0F025A-5E71-4B6D-9892-44114ED0ABB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appSimca", "appBanco\appSimca.csproj", "{6F0F025A-5E71-4B6D-9892-44114ED0ABB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
