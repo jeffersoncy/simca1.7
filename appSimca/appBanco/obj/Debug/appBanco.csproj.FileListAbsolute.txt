@@ -1,0 +1,358 @@
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.EliminarBanco.resources
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.RegistrarBanco.resources
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.RegistrarCliente.resources
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipal.resources
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\user\Downloads\appBanco\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Jorge Ivan\Desktop\appBanco - copia\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.RegistrarPrestamo.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Win10\Desktop\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Win10\Desktop\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Win10\Desktop\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.RegistrarPrestamo.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Win10\Desktop\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.RegistrarPrestamo.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Jorge Ivan\Desktop\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\Jorge Ivan\Desktop\Proyecto Jimena\JSolano-JCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Consultas.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionClientes.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\user\Desktop\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.pdb
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe.config
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.pdb
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.exe
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.pdb
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+D:\Escritorio\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Resources.homeAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Resources.homeAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\JorgeSolano-JeffersonCampo_3\JorgeSolano-JeffersonCampo\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.Resources.homeAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.GestionarBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.GestionarLdc.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.GestionarPrestamos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.Resources.homeAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.VentanaPrincipalDef.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.verDatosBanco1.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.verDatosClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesBancos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.verDatosDisponiblesClientes.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.InterfazPrincipalAdministrador.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.InterfasPrincipalProfesor.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.2\appBanco\appBanco\obj\Debug\appBanco.InterfazPrincipalEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.3\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.4\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionPrograma.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionSalon.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionFacultad.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.GestionMateria.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.5\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionFacultad.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionMateria.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPrograma.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.GestionSalon.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.verDatosPersona.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Desktop\Proyecto Simca\software\software 1.6\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionFacultad.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionMateria.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPrograma.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionSalon.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verDatosPersona.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\MATIAS\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.pdb
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.exe.config
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.exe
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\appBanco.pdb
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csprojAssemblyReference.cache
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionarDespartamento.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGesDocente.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.frmGestionEstudiante.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionFacultad.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionMateria.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPersona.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionPrograma.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.GestionSalon.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.inicioAdmin.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.InicioEstudiante.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\FormulariosDeRegistro.inicioProfesor.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.Login.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.Properties.Resources.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verDatosPersona.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verDepartamentos.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.verFacultades.resources
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.GenerateResource.cache
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.csproj.CopyComplete
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.exe
+C:\Users\Personal\Documents\GitHub\Simca1.6\appBanco\appBanco\obj\Debug\appBanco.pdb
