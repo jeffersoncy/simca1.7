@@ -7,8 +7,8 @@
     <ProjectGuid>{6F0F025A-5E71-4B6D-9892-44114ED0ABB9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>appBanco</RootNamespace>
-    <AssemblyName>appBanco</AssemblyName>
+    <RootNamespace>appSimca</RootNamespace>
+    <AssemblyName>appSimca</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
