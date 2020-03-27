@@ -1,2 +1,3 @@
-# Simca1.6
+# Simca1.7
+# Funcionalidad interfaz gráfica profesor completa
  
