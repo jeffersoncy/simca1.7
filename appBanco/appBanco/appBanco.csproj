@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F0F025A-5E71-4B6D-9892-44114ED0ABB9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>appBanco</RootNamespace>
+    <AssemblyName>appBanco</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>appBanco.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=2.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accesoDatos\Datos.cs" />
+    <Compile Include="form\GestionFacultad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionFacultad.designer.cs">
+      <DependentUpon>GestionFacultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionMateria.designer.cs">
+      <DependentUpon>GestionMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionPrograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionPrograma.designer.cs">
+      <DependentUpon>GestionPrograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionSalon.designer.cs">
+      <DependentUpon>GestionSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logica\Asistencia.cs" />
+    <Compile Include="logica\Docente.cs" />
+    <Compile Include="form\GestionarDespartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionarDespartamento.Designer.cs">
+      <DependentUpon>GestionarDespartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionarDocentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionarDocentes.designer.cs">
+      <DependentUpon>GestionarDocentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionarEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionarEstudiantes.designer.cs">
+      <DependentUpon>GestionarEstudiantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\GestionPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\GestionPersona.designer.cs">
+      <DependentUpon>GestionPersona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\inicioAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\inicioAdmin.Designer.cs">
+      <DependentUpon>inicioAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InicioEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InicioEstudiante.designer.cs">
+      <DependentUpon>InicioEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\inicioProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\inicioProfesor.designer.cs">
+      <DependentUpon>inicioProfesor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logica\departamento.cs" />
+    <Compile Include="logica\Facultad.cs" />
+    <Compile Include="logica\login.cs" />
+    <Compile Include="logica\Materia.cs" />
+    <Compile Include="logica\Nota.cs" />
+    <Compile Include="logica\Program.cs" />
+    <Compile Include="logica\Programa.cs" />
+    <Compile Include="logica\Salon.cs" />
+    <Compile Include="logica\Validacion.cs" />
+    <Compile Include="form\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logica\Persona.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="form\verDatosPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\verDatosPersona.designer.cs">
+      <DependentUpon>verDatosPersona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\verDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\verDepartamentos.Designer.cs">
+      <DependentUpon>verDepartamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\verFacultades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\verFacultades.Designer.cs">
+      <DependentUpon>verFacultades.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\GestionarDespartamento.resx">
+      <DependentUpon>GestionarDespartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionarDocentes.resx">
+      <DependentUpon>GestionarDocentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionarEstudiantes.resx">
+      <DependentUpon>GestionarEstudiantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionFacultad.resx">
+      <DependentUpon>GestionFacultad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionMateria.resx">
+      <DependentUpon>GestionMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionPersona.resx">
+      <DependentUpon>GestionPersona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionPrograma.resx">
+      <DependentUpon>GestionPrograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\GestionSalon.resx">
+      <DependentUpon>GestionSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\inicioAdmin.resx">
+      <DependentUpon>inicioAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InicioEstudiante.resx">
+      <DependentUpon>InicioEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\inicioProfesor.resx">
+      <DependentUpon>inicioProfesor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="form\verDatosPersona.resx">
+      <DependentUpon>verDatosPersona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\verDepartamentos.resx">
+      <DependentUpon>verDepartamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\verFacultades.resx">
+      <DependentUpon>verFacultades.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
